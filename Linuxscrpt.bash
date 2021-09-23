@@ -107,3 +107,5 @@ sudo iptables -A INPUT -s 66.254.114.41 -j DROP
 sudo iptables -A OUTPUT -p tcp --dport 1900 -j DROP
 #Port 1900 is van UPNP en dat poort open laten staan kan gevaarlijk zijn
 fi;
+
+#Wordt de aanpassing verwerkt in github?
