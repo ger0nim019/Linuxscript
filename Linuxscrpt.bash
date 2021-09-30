@@ -109,3 +109,5 @@ sudo iptables -A OUTPUT -p tcp --dport 1900 -j DROP
 fi;
 
 #Wordt de aanpassing verwerkt in github?
+
+#Je linux machine zou maar corrupt raken
